@@ -7,8 +7,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Compile Include="C:\Users\eoino\OneDrive\Documents\Comp Sci\Week1-Calculator.cs" Link="Week1-Calculator.cs" />
-  </ItemGroup>
-
 </Project>
